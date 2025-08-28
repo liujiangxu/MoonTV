@@ -6,6 +6,21 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
+    "api_1": {
+            "name": "TV-1080资源",
+            "api": "https://api.1080zyku.com/inc/api_mac10.php",
+            "detail": "https://api.1080zyku.com"
+        },
+    "api_52": {
+            "name": "AV-91麻豆",
+            "api": "https://91md.me/api.php/provide/vod",
+            "detail": "https://91md.me"
+        },
+    "api_61": {
+            "name": "AV-玉兔资源",
+            "api": "https://apiyutu.com/api.php/provide/vod",
+            "detail": "https://apiyutu.com"
+        },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
